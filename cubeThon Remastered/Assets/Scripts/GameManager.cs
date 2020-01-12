@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviour
 	{
 		Debug.Log("LEVEL WON");
 		completeLevelUI.SetActive(true);
+		SceneManager.LoadScene(SceneManager, GetActiveScene().buildIndex + 1 );
 	}
     public void EndGame()
 	{
