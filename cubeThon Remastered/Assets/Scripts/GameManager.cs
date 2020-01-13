@@ -13,6 +13,7 @@ public class GameManager : MonoBehaviour
 		completeLevelUI.SetActive(true);
 		SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1 );
 	}
+
     public void EndGame()
 	{
 		if (gameOver == false)
