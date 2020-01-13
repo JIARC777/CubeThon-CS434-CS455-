@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "cubeThon Remasted",
+"productVersion": "0.1",
+"dataUrl": "CubeThon Release v1.2 AI Update.data.unityweb",
+"wasmCodeUrl": "CubeThon Release v1.2 AI Update.wasm.code.unityweb",
+"wasmFrameworkUrl": "CubeThon Release v1.2 AI Update.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.16f1"
+}
